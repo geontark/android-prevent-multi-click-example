@@ -1,4 +1,4 @@
-# android-prevent-multi-click-example
+# [android] prevent multi-click example
 
 
-## caes1 : using extension with databinding
+## caes1 : using extension with databinding for MVVM
